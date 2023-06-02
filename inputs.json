@@ -1,7 +1,7 @@
 [
     {
       "name": "openai_token",
-      "kind": "password",
-      "message": "Do you have an OpenAI API token? If so, enter it here. Otherwise, leave blank."
+      "kind": "text",
+      "message": "Your OpenAI API token: "
     }
 ]
